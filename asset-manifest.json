@@ -1,0 +1,17 @@
+{
+  "main.css": "/ga_arena/static/css/main.70da9677.chunk.css",
+  "main.js": "/ga_arena/static/js/main.fa5a6cc3.chunk.js",
+  "main.js.map": "/ga_arena/static/js/main.fa5a6cc3.chunk.js.map",
+  "runtime~main.js": "/ga_arena/static/js/runtime~main.a90419cd.js",
+  "runtime~main.js.map": "/ga_arena/static/js/runtime~main.a90419cd.js.map",
+  "static/js/2.0705f818.chunk.js": "/ga_arena/static/js/2.0705f818.chunk.js",
+  "static/js/2.0705f818.chunk.js.map": "/ga_arena/static/js/2.0705f818.chunk.js.map",
+  "index.html": "/ga_arena/index.html",
+  "precache-manifest.adb000fb572b0aafd99ccad27a60ccdb.js": "/ga_arena/precache-manifest.adb000fb572b0aafd99ccad27a60ccdb.js",
+  "service-worker.js": "/ga_arena/service-worker.js",
+  "static/css/main.70da9677.chunk.css.map": "/ga_arena/static/css/main.70da9677.chunk.css.map",
+  "static/media/coming1.png": "/ga_arena/static/media/coming1.7db97312.png",
+  "static/media/gomoku1.png": "/ga_arena/static/media/gomoku1.8c530fc0.png",
+  "static/media/logo.svg": "/ga_arena/static/media/logo.68b329da.svg",
+  "static/media/tic-tac.png": "/ga_arena/static/media/tic-tac.d1106a8f.png"
+}
