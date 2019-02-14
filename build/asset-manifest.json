@@ -1,0 +1,17 @@
+{
+  "main.css": "/project2/static/css/main.c9b4fba8.chunk.css",
+  "main.js": "/project2/static/js/main.0a2d8105.chunk.js",
+  "main.js.map": "/project2/static/js/main.0a2d8105.chunk.js.map",
+  "runtime~main.js": "/project2/static/js/runtime~main.1015b631.js",
+  "runtime~main.js.map": "/project2/static/js/runtime~main.1015b631.js.map",
+  "static/js/2.bcd04211.chunk.js": "/project2/static/js/2.bcd04211.chunk.js",
+  "static/js/2.bcd04211.chunk.js.map": "/project2/static/js/2.bcd04211.chunk.js.map",
+  "index.html": "/project2/index.html",
+  "precache-manifest.faf80c5d4a41a8f861d99eefeef36489.js": "/project2/precache-manifest.faf80c5d4a41a8f861d99eefeef36489.js",
+  "service-worker.js": "/project2/service-worker.js",
+  "static/css/main.c9b4fba8.chunk.css.map": "/project2/static/css/main.c9b4fba8.chunk.css.map",
+  "static/media/coming1.png": "/project2/static/media/coming1.7db97312.png",
+  "static/media/gomoku1.png": "/project2/static/media/gomoku1.8c530fc0.png",
+  "static/media/logo.svg": "/project2/static/media/logo.68b329da.svg",
+  "static/media/tic-tac.png": "/project2/static/media/tic-tac.d1106a8f.png"
+}
